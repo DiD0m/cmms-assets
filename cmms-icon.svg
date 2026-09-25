@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <!-- Export of the existing #cmms-brand-mark symbol in Views/MobileApp.html. -->
+  <circle cx="20" cy="20" r="19" fill="#25272b"/>
+  <path d="M7.6 33.3a19 19 0 0 0 26.5-3" fill="none" stroke="#6d88ba" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M17.1 12.9c-2.6-1.5-6.4-.3-8.7 3.1-2.8 4-2.8 9.7-.2 12.1 2.9 2.6 7.2 1.5 10.3-1.2" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17.8 27.2c2.2-5.3 4.4-10.8 6.7-15.2-.4 5.9-.6 11.5-.3 16.2 2.8-5.7 5.9-11.4 9-15.5-1.4 5.1-2.5 10.1-2.4 13.7.1 1.6 1.1 2 2.6 1.1" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
